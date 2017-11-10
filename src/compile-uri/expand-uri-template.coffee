@@ -1,4 +1,4 @@
-ut = require 'uri-template'
+ut = require 'dmg-uri-template'
 
 
 module.exports = (uriTemplate, params) ->
