@@ -1,6 +1,6 @@
 {
-  "name": "dmg-dredd-transactions",
-  "version": "4.6.0",
+  "name": "adsk-dredd-transactions",
+  "version": "4.6.5",
   "description": "Compiles HTTP Transactions (Request-Response pairs) from API description document",
   "main": "lib/index.js",
   "engines": {
@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DMG-Cloud-Services/dmg-dredd-transactions"
+    "url": "https://github.com/DMG-Cloud-Services/adsk-dredd-transactions"
   },
   "dependencies": {
     "caseless": "^0.12.0",
     "clone": "^2.1.1",
-    "dmg-fury": "3.0.0",
-    "dmg-fury-adapter-apib-parser": "0.9.0",
-    "dmg-fury-adapter-swagger": "0.15.0",
-    "dmg-uri-template": "^1.0.0"
+    "adsk-fury": "3.0.0",
+    "adsk-fury-adapter-apib-parser": "0.9.0",
+    "adsk-fury-adapter-swagger": "0.15.0",
+    "adsk-uri-template": "^1.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^4.2.1",
