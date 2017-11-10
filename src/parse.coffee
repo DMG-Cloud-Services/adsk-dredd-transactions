@@ -1,6 +1,6 @@
-fury = require('fury')
-fury.use(require('fury-adapter-apib-parser'))
-fury.use(require('fury-adapter-swagger'))
+fury = require('dmg-fury')
+fury.use(require('dmg-fury-adapter-apib-parser'))
+fury.use(require('dmg-fury-adapter-swagger'))
 
 
 parse = (source, callback) ->
