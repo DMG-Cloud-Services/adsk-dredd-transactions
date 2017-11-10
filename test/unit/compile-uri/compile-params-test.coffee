@@ -1,5 +1,5 @@
 {assert} = require 'chai'
-fury = new require 'fury'
+fury = new require 'adsk-fury'
 
 compileParams = require '../../../src/compile-uri/compile-params'
 

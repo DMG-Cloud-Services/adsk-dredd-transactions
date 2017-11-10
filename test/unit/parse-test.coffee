@@ -1,5 +1,5 @@
-sinon = require('sinon')
-fury = require('fury')
+sdskinon = require('sinon')
+fury = require('adsk-fury')
 
 {assert} = require('../utils')
 fixtures = require('../fixtures')
